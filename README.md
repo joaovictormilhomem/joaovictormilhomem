@@ -1,6 +1,6 @@
 ### Olá, eu sou o João Victor Milhomem
 
-- 🔭 Hoje trabalho como desenvolvedor web, ultiluzo técnologias como React, NodeJS e Firebase.
+- 🔭 Hoje trabalho como desenvolvedor web, utilizo técnologias como React, NodeJS e Firebase.
 
 <a href="https://github.com/joaovictormilhomem">
   <div>
